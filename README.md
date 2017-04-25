@@ -1,4 +1,4 @@
-# desafio-nodejs
+# Exercício-nodejs
 
 
 A partir do template dado, desenvolver os métodos:
