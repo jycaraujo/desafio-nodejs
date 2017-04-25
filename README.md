@@ -8,10 +8,10 @@ A partir do template dado, desenvolver os métodos:
 - Excluir Projeto
 - Listar Projeto
 
-A listagem deve possuir um link para exclusão e edição de cada tupla;
-As informações da tupla devem ser lidas nos campos na tela de edição;
-A opção de excluir deve gerar um alerta de confirmação;
-Os dados podem ser persistidos no banco de sua preferência, nós sugerimos mongoDB por ser o banco que utilizamos atualmente no nosso sistema.
+A listagem deve possuir um link para exclusão e edição de cada tupla; <br/>
+As informações da tupla devem ser lidas nos campos na tela de edição; <br/>
+A opção de excluir deve gerar um alerta de confirmação; <br/>
+Os dados podem ser persistidos no banco de sua preferência, nós sugerimos mongoDB por ser o banco que utilizamos atualmente no nosso sistema. <br/>
 
 # Entrega
 
