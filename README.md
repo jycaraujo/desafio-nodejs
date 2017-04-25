@@ -15,7 +15,7 @@ Os dados podem ser persistidos no banco de sua preferência, nós sugerimos mong
 
 # Entrega
 
-Crie um repositório no seu perfil do GitHub e nos envie a url.
+Crie um repositório no seu perfil do GitHub e nos envie a url. <br/>
 Crie um arquivo README.md para adicionar algum comentário/observação que achar importante.
 
 Links úteis:
